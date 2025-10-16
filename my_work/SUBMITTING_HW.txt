@@ -1,0 +1,14 @@
+## Git Instructions
+
+	# to push changes to fork
+		git push origin main
+
+	# Sync upstream content to fork
+		git fetch upstream
+		git checkout main
+		git merge upstream/main
+
+
+## PDF Instructions
+
+	# Make PDF of completed lecture notebooks and save to "/my_work/" 
