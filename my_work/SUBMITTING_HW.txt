@@ -1,6 +1,8 @@
 ## Git Instructions
 
 	# to push changes to fork
+        git add my_work/
+        git commit -a -m 'sddsfhds'
 		git push origin main
 
 	# Sync upstream content to fork
