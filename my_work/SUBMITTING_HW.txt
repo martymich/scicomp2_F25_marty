@@ -2,7 +2,7 @@
 
 	# to push changes to fork
         git add my_work/
-        git commit -a -m 'sddsfhds'
+        git commit -m 'sddsfhds'     (by not adding the -a flag, we only commit the directory we added)
 		git push origin main
 
 	# Sync upstream content to fork
